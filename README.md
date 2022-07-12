@@ -3,7 +3,7 @@ Description
 This team project is part of the first year curriculum of Holberton School. _printf replicates the C standard library printf() function.
 
 ## Authors
-Abdulkareem Mustapha -@aphatheology and Ukachukwu Micheal -@MIC11A3L
+Hayatudeen Abdulrahman -@religiousCoder and Nurudeen Tajudeen -@AbuRoyyan
 
 What you should learn from this project:
 
